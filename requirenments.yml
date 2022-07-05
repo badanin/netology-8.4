@@ -1,0 +1,13 @@
+---
+  - src: git@github.com:badanin/netology-8.4-vector.git
+    scm: git
+    version: "0.0.1"
+    name: vector 
+  - src: git@github.com:badanin/netology-8.4-clickhouse.git
+    scm: git
+    version: "0.0.1"
+    name: clickhouse
+  - src: git@github.com:badanin/netology-8.4-lighthouse.git
+    scm: git
+    version: "0.0.1"
+    name: lighthouse
